@@ -19,10 +19,10 @@ Currently the notes can be added by typing only. The project's scope is to take 
 
 # Screenshots:
 ![Screenshot_20220110-113507_Note It](https://user-images.githubusercontent.com/89247835/148724543-6dde9427-94af-457d-90e1-6909d1e54aa7.jpg)
-![![Screenshot_20220110-113516_Note It](https://user-images.githubusercontent.com/89247835/148724574-79191c1a-f217-4ad5-8c43-14137798d020.jpg)
-![Screenshot_20220110-113516_Note It](https://user-images.githubusercontent.com/89247835/148724637-c8b83d7a-17e4-446d-b08a-301bdbdd3672.jpg)
-![Screenshot_20220110-113537_Note It](https://user-images.githubusercontent.com/89247835/148724644-80a98cf9-6cc0-492e-8019-0ce4481e58e4.jpg)
-![Screenshot_20220110-113617_Note It](https://user-images.githubusercontent.com/89247835/148724649-b4efabe7-c5ce-4a6f-92e0-3d6cb9a55a6e.jpg)
+![Screenshot_20220110-113610_Note It](https://user-images.githubusercontent.com/89247835/148724707-2f97c2e5-834b-4392-b38c-5b06861af664.jpg)
+![Screenshot_20220110-113516_Note It](https://user-images.githubusercontent.com/89247835/148724709-8d2cc6d3-50ad-4203-a2ce-12fd2450060e.jpg)
+![Screenshot_20220110-113537_Note It](https://user-images.githubusercontent.com/89247835/148724715-a7ea0d80-6dbc-4475-bee8-f129fd4641a7.jpg)
+![Screenshot_20220110-113617_Note It](https://user-images.githubusercontent.com/89247835/148724722-937f8bb7-793e-45b6-9cda-41423e2c3f4f.jpg)
 
 
 
