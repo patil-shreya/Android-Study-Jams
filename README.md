@@ -1,6 +1,6 @@
 # Android-Study-Jams
 
-# Quick Notes Application
+# Quick Notes Application - Note It
 
 # Problem Statement:
 
