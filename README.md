@@ -18,13 +18,11 @@ Its features include adding quick notes, updating previously added notes as well
 Currently the notes can be added by typing only. The project's scope is to take down voice notes as well as adding security to the notes.
 
 # Screenshots:
-![Screenshot_20220110-113507_Note It](https://user-images.githubusercontent.com/89247835/148724543-6dde9427-94af-457d-90e1-6909d1e54aa7.jpg)![Screenshot_20220110-113610_Note It](https://user-images.githubusercontent.com/89247835/148724707-2f97c2e5-834b-4392-b38c-5b06861af664.jpg)![Screenshot_20220110-113516_Note It](https://user-images.githubusercontent.com/89247835/148724709-8d2cc6d3-50ad-4203-a2ce-12fd2450060e.jpg)![Screenshot_20220110-113537_Note It](https://user-images.githubusercontent.com/89247835/148724715-a7ea0d80-6dbc-4475-bee8-f129fd4641a7.jpg)![Screenshot_20220110-113617_Note It](https://user-images.githubusercontent.com/89247835/148724722-937f8bb7-793e-45b6-9cda-41423e2c3f4f.jpg)
-
-
-
-
-
-
+<img src="(https://user-images.githubusercontent.com/89247835/148724543-6dde9427-94af-457d-90e1-6909d1e54aa7.jpg", height="100px", width="100px">
+![Screenshot_20220110-113610_Note It](https://user-images.githubusercontent.com/89247835/148724707-2f97c2e5-834b-4392-b38c-5b06861af664.jpg)
+![Screenshot_20220110-113516_Note It](https://user-images.githubusercontent.com/89247835/148724709-8d2cc6d3-50ad-4203-a2ce-12fd2450060e.jpg)
+![Screenshot_20220110-113537_Note It](https://user-images.githubusercontent.com/89247835/148724715-a7ea0d80-6dbc-4475-bee8-f129fd4641a7.jpg)
+![Screenshot_20220110-113617_Note It](https://user-images.githubusercontent.com/89247835/148724722-937f8bb7-793e-45b6-9cda-41423e2c3f4f.jpg)
 
 # Functionality & Concepts used :
 
