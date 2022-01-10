@@ -40,7 +40,7 @@ Room Database is an improvised version of SQLite Database. It simplifies the dat
 
 # Application Link & Future Scope :
 
-The app is currently being used by a limited no. of users. You can access the app: [link]
+The app is currently being used by a limited no. of users. You can access the app: https://drive.google.com/file/d/1lvrktU4cE8ZAfepgxjRPoRJ-DIuMkrMH/view?usp=sharing
 
 Once the app is fully functional we plan to add a security to the application to make the notes moe secure.
 We also plan to add the feature to take voice notes.
