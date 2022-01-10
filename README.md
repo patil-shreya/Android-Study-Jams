@@ -1,8 +1,8 @@
 # Android-Study-Jams
 
-Quick Notes Application
+# Quick Notes Application
 
-Problem Stateent:
+# Problem Stateent:
 
 Taking notes is something that we as students do on a regular basis. 
 Not only students but also almost all of the people take notes everyday on some topic or another.
@@ -10,7 +10,7 @@ Sometimes we may not be able to carry a notebook, or paper, or pen with us.
 In this case it becomes a dilemma for us to take down notes. There are various important things or keywords that we may want to note down,
 and arent able to do so because of not having note taking tools.
 
-Proposed Solution:
+# Proposed Solution:
 
 This project proposes a "Quick Notes Application" which helps us take down notes quickly through a mobile application.
 We do not have to worry about always carrying a notebook or pen as we have our Quick Notes Application i.e. Note It on our mobiles.
@@ -19,7 +19,7 @@ Currently the notes can be added by typing only. The project's scope is to take 
 
 
 
-Functionality & Concepts used :
+# Functionality & Concepts used :
 
 The App has a very simple and interactive interface which helps everyone take quick notes. 
 Following are few android concepts used to achieve the functionalities in app :
@@ -32,7 +32,7 @@ LiveData, Viewmodel, Room Database:Live Data is a data holder class that can be 
 View Modal acts as a communication center between repository and UI. The UI no longer needs to worry about the origin of the data. The ViewModel instances survive Activity/Fragment recreation.
 Room Database is an improvised version of SQLite Database. It simplifies the database work and serves as an access point to the underlying SQLite database. The room uses DAO to issue queries to the SQLite database.
 
-Application Link & Future Scope :
+# Application Link & Future Scope :
 
 The app is currently being used by a limited no. of users. You can access the app: [link]
 
