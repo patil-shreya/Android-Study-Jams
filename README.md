@@ -18,8 +18,8 @@ Its features include adding quick notes, updating previously added notes as well
 Currently the notes can be added by typing only. The project's scope is to take down voice notes as well as adding security to the notes.
 
 # Screenshots:
-<img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113507_Note%20It.jpg" height="100" width="100">
-<img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113516_Note%20It.jpg" height="100" width="100">
+<img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113507_Note%20It.jpg" height="200" width="150"><img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113516_Note%20It.jpg" height="200" width="150">
+
 <img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113537_Note%20It.jpg" height="100" width="100">
 <img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113610_Note%20It.jpg" height="100" width="100">
 <img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113617_Note%20It.jpg" height="100" width="100">
