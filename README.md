@@ -19,8 +19,8 @@ Currently the notes can be added by typing only. The project's scope is to take 
 
 # Screenshots:
 <img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113507_Note%20It.jpg" height="400" width="300">    <img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113516_Note%20It.jpg" height="400" width="300">    <img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113537_Note%20It.jpg" height="400" width="300">
-<img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113610_Note%20It.jpg" height="400" width="300">   
-<img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113617_Note%20It.jpg" height="400" width="300">
+<img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113610_Note%20It.jpg" height="400" width="300">    <img src="https://github.com/patil-shreya/Android-Study-Jams/blob/main/Screenshots/Screenshot_20220110-113617_Note%20It.jpg" height="400" width="300">
+   
 
 
 
