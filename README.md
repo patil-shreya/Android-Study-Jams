@@ -2,7 +2,7 @@
 
 # Quick Notes Application
 
-# Problem Stateent:
+# Problem Statement:
 
 Taking notes is something that we as students do on a regular basis. 
 Not only students but also almost all of the people take notes everyday on some topic or another.
@@ -17,6 +17,12 @@ We do not have to worry about always carrying a notebook or pen as we have our Q
 Its features include adding quick notes, updating previously added notes as well as keeping track of the date and time notes were added and updated.
 Currently the notes can be added by typing only. The project's scope is to take down voice notes as well as adding security to the notes.
 
+# Screenshots:
+![Screenshot_20220110-113507_Note It](https://user-images.githubusercontent.com/89247835/148724543-6dde9427-94af-457d-90e1-6909d1e54aa7.jpg)
+![![Screenshot_20220110-113516_Note It](https://user-images.githubusercontent.com/89247835/148724574-79191c1a-f217-4ad5-8c43-14137798d020.jpg)
+Screenshot![Screenshot_20220110-113537_Note It](https://user-images.githubusercontent.com/89247835/148724577-6ef8d81b-52b7-4763-88c9-981bdafb2b48.jpg)
+_20220110-113610_Note It](https://user-images.githubusercontent.com/89247835/148724548-3518deea-312f-4e73-bbb0-e095a9fe8cee.jpg)
+![Screenshot_20220110-113617_Note It](https://user-images.githubusercontent.com/89247835/148724583-7d67526d-25e7-4e4b-a7ca-8beb13faee63.jpg)
 
 
 # Functionality & Concepts used :
